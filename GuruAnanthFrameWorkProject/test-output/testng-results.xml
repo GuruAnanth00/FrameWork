@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12160" started-at="2022-09-09T13:33:37Z" finished-at="2022-09-09T13:33:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12160" started-at="2022-09-09T13:33:37Z" finished-at="2022-09-09T13:33:49Z">
+      <class name="org.testing.TestNgOrder">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.testing.TestNgOrder@754ba872]" name="browserLaunch" is-config="true" duration-ms="2888" started-at="2022-09-09T13:33:37Z" finished-at="2022-09-09T13:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testing.TestNgOrder@754ba872]" name="startTime" is-config="true" duration-ms="572" started-at="2022-09-09T13:33:39Z" finished-at="2022-09-09T13:33:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc3()[pri:-3, instance:org.testing.TestNgOrder@754ba872]" name="tc3" duration-ms="3439" started-at="2022-09-09T13:33:40Z" finished-at="2022-09-09T13:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testing.TestNgOrder@754ba872]" name="endTime" is-config="true" duration-ms="0" started-at="2022-09-09T13:33:43Z" finished-at="2022-09-09T13:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testing.TestNgOrder@754ba872]" name="startTime" is-config="true" duration-ms="146" started-at="2022-09-09T13:33:43Z" finished-at="2022-09-09T13:33:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:-2, instance:org.testing.TestNgOrder@754ba872]" name="tc2" duration-ms="2338" started-at="2022-09-09T13:33:44Z" finished-at="2022-09-09T13:33:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ANANTH]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9715799035]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testing.TestNgOrder@754ba872]" name="endTime" is-config="true" duration-ms="0" started-at="2022-09-09T13:33:46Z" finished-at="2022-09-09T13:33:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testing.TestNgOrder@754ba872]" name="startTime" is-config="true" duration-ms="83" started-at="2022-09-09T13:33:46Z" finished-at="2022-09-09T13:33:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc1()[pri:-1, instance:org.testing.TestNgOrder@754ba872]" name="tc1" duration-ms="2375" started-at="2022-09-09T13:33:46Z" finished-at="2022-09-09T13:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:org.testing.TestNgOrder@754ba872]" name="browserClose" is-config="true" duration-ms="277" started-at="2022-09-09T13:33:48Z" finished-at="2022-09-09T13:33:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testing.TestNgOrder@754ba872]" name="endTime" is-config="true" duration-ms="0" started-at="2022-09-09T13:33:48Z" finished-at="2022-09-09T13:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+      </class> <!-- org.testing.TestNgOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
